@@ -34,15 +34,15 @@
 # 2.관련 이미지 & 동영상
 
 -이미지
-<img scr="./img/ntf1.jpg">
+<img src="./img/ntf1.jpg" width="200" heigh="200">
 
-<img scr="./img/ntf2.jpg">
+<img src="./img/ntf2.jpg" width="200" heigh="200">
 
-<img scr="./img/ntf1.jpg">
+https://www.youtube.com/watch?v=ohClxMmNLQQ
 
 # 3.대표 이미지
 
-![그림](./img/ntfIMG.jpg)
+<img src="./img/nftImg.jpg" width="200" heigh="200">
 
 # [컨셉 & 대표이미지 기반 작품묘사] - 아직 자료없음.
 
