@@ -33,7 +33,16 @@
 
 # 2.관련 이미지 & 동영상
 
+-이미지
+<img scr="./img/ntf1.jpg">
+
+<img scr="./img/ntf2.jpg">
+
+<img scr="./img/ntf1.jpg">
+
 # 3.대표 이미지
+
+![그림](./img/ntfIMG.jpg)
 
 # [컨셉 & 대표이미지 기반 작품묘사] - 아직 자료없음.
 
