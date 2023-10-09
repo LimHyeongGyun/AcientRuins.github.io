@@ -33,7 +33,6 @@
 
 # 2.관련 이미지 & 동영상
 
--이미지
 <img src="./img/ntf1.jpg" width="200" heigh="200">
 
 <img src="./img/ntf2.jpg" width="200" heigh="200">
