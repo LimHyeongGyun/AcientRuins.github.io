@@ -375,13 +375,13 @@ NinetailFoxAdventure의 요구사항
 
 실험실에 누워있는 여우를 중심으로 카메라가 실험실 내부를 보여주고 있다.
 
-<img src="./img/cinema1.png" width="200" heigh="200">
+<img src="./img/cinema1.jpg" width="200" heigh="200">
 
 인 게임 -1
 
 여우가 동물을 구출해 내는 모습을 보여주고 있다.
 
-<img src="./img/ingame1.png" width="200" heigh="200">
+<img src="./img/ingame1.jpg" width="200" heigh="200">
 
 인게임 –2
 
@@ -399,7 +399,7 @@ NinetailFoxAdventure의 요구사항
 
 여우와 다른 동료 동물들이 탈출에 성공해서 기뻐하는 모습을 보여주고 있다.
 
-<img src="./img/cinema2.png" width="200" heigh="200">
+<img src="./img/cinema2.jpg" width="200" heigh="200">
 
 # [Github Blog URL] 
 이승현 : lseunghyun.github.io / 임형균 : LimHyeongGyun.github.io
