@@ -375,7 +375,7 @@ NinetailFoxAdventure의 요구사항
 
 실험실에 누워있는 여우를 중심으로 카메라가 실험실 내부를 보여주고 있다.
 
-<img src="./img/cinemal.png" width="200" heigh="200">
+<img src="./img/cinema1.png" width="200" heigh="200">
 
 인 게임 -1
 
