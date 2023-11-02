@@ -10,7 +10,7 @@
 
 ### 3. [컨셉 & 대표이미지 기반 작품묘사](#3)
 
-### 4. [<NineTailFoxAdventure>구성 요소](#4)
+### 4. [NineTailFoxAdventure구성 요소](#4)
 
 ### 5. [게임 시스템 디자인](#5)
 
