@@ -22,7 +22,7 @@
 
 ### 9. [용어정리](#9)
 
-# 1.[컨셉]<a name ='1'><a/>
+# 1.컨셉<a name ='1'><a/>
 
 ## 메인컨셉:
 
@@ -51,7 +51,7 @@
 
 
 
-# 2.[관련 이미지 & 동영상] <a name ='2'><a/>
+# 2.관련 이미지 & 동영상 <a name ='2'><a/>
 
 <img src="./img/ntf1.jpg" width="200" heigh="200">
 <img src="./img/ntf2.jpg" width="200" heigh="200">
@@ -61,13 +61,13 @@
 
 <img src="./img/ntfImg.jpg" width="200" heigh="200">
 
-# [컨셉 & 대표이미지 기반 작품묘사] <a name ='3'><a/>
+# 컨셉 & 대표이미지 기반 작품묘사 <a name ='3'><a/>
 
 대표 이미지 기반:
 
 컨셉 기반:
 
-# [<NineTailFoxAdventure> 구성 요소] <a name ='4'><a/>
+#[<NineTailFoxAdventure> 구성 요소 <a name ='4'><a/>
 
 제목:NineTailFox Adventure
 
@@ -98,7 +98,7 @@
 
 unity를 활용하여 C#을 통해 PC기반의 게임을 만들 계획이다. 키보드를 통해 조작이 가능하다.
 
-# [게임 시스템 디자인]<a name ='5'><a/>
+# 게임 시스템 디자인<a name ='5'><a/>
 
 ## 1.게임 오브젝트 분해(구성 요소 분석)
 
@@ -254,7 +254,7 @@ unity를 활용하여 C#을 통해 PC기반의 게임을 만들 계획이다. �
 
 -5.적중하지 못하고 Enemy에게 충돌할 시 Life-=1 후 일정시간 이후 마지막 세이브 장소로 이동
 
-# [개발 요구사항 & 흐름도] <a name ='6'><a/>
+# 개발 요구사항 & 흐름도 <a name ='6'><a/>
 
 ## NinetailFoxAdventure의 요구사항
 
@@ -342,13 +342,13 @@ unity를 활용하여 C#을 통해 PC기반의 게임을 만들 계획이다. �
 
 •게임 진행중 마법진모양포탈의 모양으로 SavePoint가 맵 곳곳에 등장한다.
 
-## 2. [시간별 흐름도 flowchart] <a name ='7'><a/>
+## 2. 시간별 흐름도 flowchart <a name ='7'><a/>
 <img src="./img/timeflowchart.png" width="500" heigh="500">
 
-## 3. [키보드 이벤트에 대한 흐름도] <a name ='8'><a/>
+## 3. 키보드 이벤트에 대한 흐름도 <a name ='8'><a/>
 <img src="./img/keyboardflowchart.png" width="500" heigh="500">
 
-## 4. [용어정리] <a name ='9'><a/>
+## 4. 용어정리 <a name ='9'><a/>
 
 |No|화면||용어|설명|
 |---|----|---|---|---|
