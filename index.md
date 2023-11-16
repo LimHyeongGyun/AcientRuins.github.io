@@ -2,7 +2,7 @@
 
 # NineTailFox Adventure(임형균, 이승현)
 
-# [목차]
+# [ 목차 ]<a name = '목차'></a>
 
 ### 1. [컨셉](#1)
 
@@ -59,6 +59,7 @@
 
 -타이밍/타이밍 노트 시스템을 추가하여 타이밍을 잡기위해 집중해야 하도록 만들 예정이다.
 
+[목차](#목차)
 
 
 # 2.관련 이미지 & 동영상 <a name ='2'><a/>
@@ -66,6 +67,8 @@
 <img src="./img/ntf1.jpg" width="200" heigh="200">
 <img src="./img/ntf2.jpg" width="200" heigh="200">
 [![](./img/ntf1.jpg)](https://youtu.be/ohClxMmNLQQ)
+
+[목차](#목차)
 
 # 3.대표 이미지
 
@@ -76,6 +79,8 @@
 대표 이미지 기반:
 
 컨셉 기반:
+
+[목차](#목차)
 
 #[NineTailFoxAdventure 구성 요소] <a name ='4'><a/>
 
@@ -264,6 +269,8 @@ unity를 활용하여 C#을 통해 PC기반의 게임을 만들 계획이다. �
 
 -5.적중하지 못하고 Enemy에게 충돌할 시 Life-=1 후 일정시간 이후 마지막 세이브 장소로 이동
 
+[목차](#목차)
+
 # 개발 요구사항 & 흐름도 <a name ='6'><a/>
 
 ## NinetailFoxAdventure의 요구사항 (1년차)  <a name='61'></a>
@@ -357,6 +364,7 @@ unity를 활용하여 C#을 통해 PC기반의 게임을 만들 계획이다. �
 
 6-2 게임 진행중 마법진모양포탈의 모양으로 SavePoint가 맵 곳곳에 등장한다.
 
+[목차](#목차)
 
 ## NinetailFoxAdventure의 요구사항 (6주차) <a name='62'></a>
 ### 1주차
@@ -430,8 +438,12 @@ unity를 활용하여 C#을 통해 PC기반의 게임을 만들 계획이다. �
 ## 2. 시간별 흐름도 flowchart <a name ='7'><a/>
 <img src="./img/timeflowchart.png" width="500" heigh="500">
 
+[목차](#목차)
+
 ## 3. 키보드 이벤트에 대한 흐름도 <a name ='8'><a/>
 <img src="./img/keyboardflowchart.png" width="500" heigh="500">
+
+[목차](#목차)
 
 ## 4. 용어정리 <a name ='9'><a/>
 
@@ -485,7 +497,7 @@ unity를 활용하여 C#을 통해 PC기반의 게임을 만들 계획이다. �
 |46|Play(게임화면)|스크립트요소|rotateSpeed|노트 시스템의 checkLine의 회전속도를 나타내는 변수이다.|
 |47|Play(게임화면)|스크립트요소|password|동물 구출시 필요한 암호를 저장하는 오브젝트 배열이다.|
 
-
+[목차](#목차)
 
 # [스토리보드] <a name ='10'><a/>
 시네마 이벤트 #1
@@ -517,6 +529,8 @@ unity를 활용하여 C#을 통해 PC기반의 게임을 만들 계획이다. �
 여우와 다른 동료 동물들이 탈출에 성공해서 기뻐하는 모습을 보여주고 있다.
 
 <img src="./img/cinema2.jpg" width="200" heigh="200">
+
+[목차](#목차)
 
 # [Github Blog URL] <a name ='11'><a/>
 이승현 : lseunghyun.github.io / 임형균 : LimHyeongGyun.github.io
@@ -575,3 +589,5 @@ unity를 활용하여 C#을 통해 PC기반의 게임을 만들 계획이다. �
 3-4 F키로 오브젝트 상호작용 (임형균) (100%)
 
 3-5 게임 진행중 Life아이템이 나오는데, 프로틴통 모양의 오브젝트로 맵 곳곳에 배치되어있다. Life 오브젝트에 가까이 가서 F키로 상호작용시 Life가 1증가되고, 오브젝트는 사라진다. (1-2 이승현,임형균) (100%)
+
+[목차](#목차)
