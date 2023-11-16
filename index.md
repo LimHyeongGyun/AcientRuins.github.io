@@ -82,7 +82,7 @@
 
 [목차](#목차)
 
-#[NineTailFoxAdventure 구성 요소] <a name ='4'><a/>
+# [NineTailFoxAdventure 구성 요소] <a name ='4'><a/>
 
 제목:NineTailFox Adventure
 
