@@ -72,7 +72,7 @@
 
 # 3.대표 이미지
 
-<img src="./img/ntfImg.jpg" width="200" heigh="200">
+<img src="./img/MainImg.jpg" width="200" heigh="200">
 
 # 컨셉 & 대표이미지 기반 작품묘사 <a name ='3'><a/>
 
