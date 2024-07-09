@@ -1,4 +1,4 @@
-# LimHyeongGyun.github.io
+# AcientRuins.github.io
 
 # Ancient Ruins (임형균, 이승현)
 
