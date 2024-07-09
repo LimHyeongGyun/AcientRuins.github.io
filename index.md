@@ -1,6 +1,6 @@
 # LimHyeongGyun.github.io
 
-# Ancient Ruins (임형균, 이승)
+# Ancient Ruins (임형균, 이승현)
 
 # [ 목차 ]<a name = '목차'></a>
 ### 1. [개발 업무 담당](#1)
